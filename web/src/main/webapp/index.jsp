@@ -8,10 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Super Simple Example Webpage bla bla bla</title>
+    <title>Super Simple Example Webpage</title>
 </head>
 <body>
-  <h1>Super Simple Example Web Page</h1> <br>
+  <h1>Super Simple Example Web Page bla bla bla</h1> <br>
   <p>
     This is an example web page on a JSP.
   </p>
